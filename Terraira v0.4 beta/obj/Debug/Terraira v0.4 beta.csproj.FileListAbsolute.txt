@@ -1,0 +1,35 @@
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\Terraira v0.4 beta.exe.config
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\Terraira v0.4 beta.exe
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\Terraira v0.4 beta.pdb
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-system-2.dll
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-window-2.dll
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-audio-2.pdb
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-audio-2.xml
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-graphics-2.pdb
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-graphics-2.xml
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-system-2.pdb
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-system-2.xml
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-window-2.pdb
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-window-2.xml
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\obj\Debug\Terraira v0.4 beta.csprojAssemblyReference.cache
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\obj\Debug\Terraira v0.4 beta.csproj.CopyComplete
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\obj\Debug\Terraira v0.4 beta.exe
+C:\Users\Данил\source\repos\Terraira v0.4 beta\Terraira v0.4 beta\obj\Debug\Terraira v0.4 beta.pdb
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\Terraira v0.4 beta.exe.config
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\Terraira v0.4 beta.exe
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\Terraira v0.4 beta.pdb
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-audio-2.pdb
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-audio-2.xml
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-graphics-2.pdb
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-graphics-2.xml
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-system-2.pdb
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-system-2.xml
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-window-2.pdb
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\bin\Debug\sfmlnet-window-2.xml
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\obj\Debug\Terraira v0.4 beta.csproj.AssemblyReference.cache
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\obj\Debug\Terraira v0.4 beta.csproj.CoreCompileInputs.cache
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\obj\Debug\Terraira.02F3A652.Up2Date
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\obj\Debug\Terraira v0.4 beta.exe
+D:\Coding\Terraria(InfinityGeneration)\Terraira v0.4 beta\Terraira v0.4 beta\obj\Debug\Terraira v0.4 beta.pdb
